@@ -36,7 +36,7 @@ Pastikan Node.js dan npm sudah terpasang, lalu jalankan:
 
 ```bash
 git clone https://github.com/muhfachrudd/TechnicalTest-SMI.git
-cd NAMA-REPOSITORY
+cd TechnicalTest-SMI
 npm install
 npm run dev
 ```
