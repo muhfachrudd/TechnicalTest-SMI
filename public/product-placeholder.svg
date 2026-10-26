@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Gambar produk tidak tersedia">
+  <rect width="640" height="480" fill="#e2e8f0"/>
+  <path d="M256 176h128v128H256z" fill="#94a3b8"/>
+  <circle cx="288" cy="216" r="16" fill="#e2e8f0"/>
+  <path d="m272 288 32-32 24 24 24-32 48 40H272Z" fill="#e2e8f0"/>
+</svg>
